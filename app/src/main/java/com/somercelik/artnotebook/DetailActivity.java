@@ -27,8 +27,6 @@ import android.widget.ImageView;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
-//VİDEO 14 ORTADA KALDIK
-
 public class DetailActivity extends AppCompatActivity {
     Button saveButton;
     Bitmap selectedImage;
